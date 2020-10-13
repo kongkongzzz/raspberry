@@ -1,7 +1,7 @@
 # Raspberry
 Kongkong's personal repository
 The crude version of the script (Lazy). 
-* If the installation fails, re-execute. *
+*If the installation fails, re-execute.*
 
 # Note
 Only available on the official raspberry PI system. Other systems are not guaranteed to be usable and can be tested by yourselves.
