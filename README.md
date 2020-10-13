@@ -5,7 +5,7 @@ The crude version of the script (Lazy). **Expert don't laugh！** <br>
 
 # Note
 Only available on the official raspberry PI system. Other systems are not guaranteed to be usable and can be tested by yourselves.<br>
-Your can download the system [here](https://www.raspberrypi.org/downloads/raspberry-pi-os/)
+You can download the system [here](https://www.raspberrypi.org/downloads/raspberry-pi-os/)
 
 # How to use
 ## Install vision package
