@@ -7,7 +7,7 @@ Your can download the system [here](https://www.raspberrypi.org/downloads/raspbe
 
 # How to use
 ## Install vision package
-`curl -L https://github.com/kongkongzzz/raspberry/releases/download/v0.0.0/vision_install.sh && bash vision_install.sh`
+`curl -L https://github.com/kongkongzzz/raspberry/releases/download/v0.0.0/vision_install.sh | bash vision_install.sh`
 * **Containing package**
   * numpy
   * torch
@@ -19,7 +19,7 @@ Your can download the system [here](https://www.raspberrypi.org/downloads/raspbe
   * etc.
 
 ## Compile your own torch whl
-`curl -L https://github.com/kongkongzzz/raspberry/releases/download/v0.0.0/vision_compile.sh && bash vision_compile.sh`
+`curl -L https://github.com/kongkongzzz/raspberry/releases/download/v0.0.0/vision_compile.sh | bash vision_compile.sh`
 whl is in ./pytorch/dist
 
 # Quote
