@@ -24,7 +24,7 @@ You can download the system [here](https://www.raspberrypi.org/downloads/raspber
   
 ## Compile your own torch whl
 `curl -L https://github.com/kongkongzzz/raspberry/releases/download/v0.0.0/vision_compile.sh | sh`<br>
-whl is in ./pytorch/dist
+whl is in `./pytorch/dist`
 
 # Quote
 * [pytorch](https://github.com/pytorch/pytorch)
