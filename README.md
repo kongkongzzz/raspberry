@@ -1,6 +1,9 @@
-# raspberry
+# Raspberry
 Kongkong's personal repository
 
+# Note
+Only available on the official raspberry PI system. Other systems are not guaranteed to be usable and can be tested by yourselves.
+Your can download the system [here](https://www.raspberrypi.org/downloads/raspberry-pi-os/)
 
 # How to use
 ## Install vision package
@@ -18,3 +21,6 @@ Kongkong's personal repository
 ## Compile your own torch whl
 `curl -l https://github.com/kongkongzzz/raspberry/releases/download/v0.0.0/vision_compile.sh && bash vision_compile.sh`
 whl is in ./pytorch/dist
+
+# Quote
+* [pytorch](https://github.com/pytorch/pytorch)
