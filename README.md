@@ -1,10 +1,10 @@
 # Raspberry
-Kongkong's personal repository
-The crude version of the script (Lazy). 
-*If the installation fails, re-execute.*
+Kongkong's personal repository<br>
+The crude version of the script (Lazy). <br>
+**If the installation fails, re-execute.**
 
 # Note
-Only available on the official raspberry PI system. Other systems are not guaranteed to be usable and can be tested by yourselves.
+Only available on the official raspberry PI system. Other systems are not guaranteed to be usable and can be tested by yourselves.<br>
 Your can download the system [here](https://www.raspberrypi.org/downloads/raspberry-pi-os/)
 
 # How to use
