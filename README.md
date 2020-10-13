@@ -19,7 +19,9 @@ Your can download the system [here](https://www.raspberrypi.org/downloads/raspbe
   * jupyter
   * pyyaml
   * etc.
-
+* **Requirements**
+  * Python3.7
+  
 ## Compile your own torch whl
 `curl -L https://github.com/kongkongzzz/raspberry/releases/download/v0.0.0/vision_compile.sh | sh`
 whl is in ./pytorch/dist
