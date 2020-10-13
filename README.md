@@ -23,7 +23,7 @@ You can download the system [here](https://www.raspberrypi.org/downloads/raspber
   * Python3.7
   
 ## Compile your own torch whl
-`curl -L https://github.com/kongkongzzz/raspberry/releases/download/v0.0.0/vision_compile.sh | sh`
+`curl -L https://github.com/kongkongzzz/raspberry/releases/download/v0.0.0/vision_compile.sh | sh`<br>
 whl is in ./pytorch/dist
 
 # Quote
