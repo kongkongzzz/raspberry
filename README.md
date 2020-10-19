@@ -9,7 +9,7 @@ You can download the system [here](https://www.raspberrypi.org/downloads/raspber
 
 # How to use
 ## Install vision package
-`curl -L https://github.com/kongkongzzz/raspberry/releases/download/v0.0.0/vision_install.sh | sh`
+`curl -L https://github.com/kongkongzzz/raspberry/releases/download/v0.0.1/vision_install.sh | sh`
 * **Containing package**
   * numpy
   * torch
