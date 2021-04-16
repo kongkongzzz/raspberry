@@ -1,6 +1,6 @@
 # Raspberry
 Kongkong's personal repository<br>
-The crude version of the script (Lazy). **Expert don't laugh！** <br>
+The crude version of the script (Lazy). <br>
 * **If the installation fails, re-execute.**
 
 # Note
